@@ -681,5 +681,6 @@
 
 `This Repo is maintained by : `
 
+- [0x7one](https://github.com/0x7one)
 - [devanshbatham](https://github.com/devanshbatham)
 - [e13v3n-0xb](https://github.com/e13v3n-0xb)
