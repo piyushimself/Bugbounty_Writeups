@@ -1,22 +1,22 @@
 
 ## Contents 
 
- - [Cross Site Scripting (XSS)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#cross-site-scripting-xss)
- - [Cross Site Request Forgery (CSRF)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#cross-site-request-forgery-csrf)
- - [Clickjacking (UI Redressing Attack)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#clickjacking-ui-redressing-attack)
- - [Local File Inclusion (LFI)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#local-file-inclusion-lfi)
- - [Subdomain Takeover](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#subdomain-takeover)
- - [Denial of Service (DOS)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#denial-of-service-dos)
- - [Authentication Bypass](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#authentication-bypass)
- - [SQL injection](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#sql-injectionsqli)
- - [Insecure Direct Object Reference (IDOR)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#insecure-direct-object-reference-idor)
- - [2FA Related issues](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#2fa-related-issues) 
- - [CORS Related issues](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#cors-related-issues)
- - [Server Side Request Forgery (SSRF)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups/blob/master/README.md#server-side-request-forgery-ssrf)
- - [Race Condition](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups/blob/master/README.md#race-condition)
- - [Remote Code Execution (RCE)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#remote-code-execution-rce)
- - [Android Pentesting](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#android-pentesting) 
- - [Maintainers](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#maintainers)
+ - [Cross Site Scripting (XSS)](https://github.com/0x7one/Bugbounty_Writeups#cross-site-scripting-xss)
+ - [Cross Site Request Forgery (CSRF)](https://github.com/0x7one/Bugbounty_Writeups#cross-site-request-forgery-csrf)
+ - [Clickjacking (UI Redressing Attack)](https://github.com/0x7one/Bugbounty_Writeups#clickjacking-ui-redressing-attack)
+ - [Local File Inclusion (LFI)](https://github.com/0x7one/Bugbounty_Writeups#local-file-inclusion-lfi)
+ - [Subdomain Takeover](https://github.com/0x7one/Bugbounty_Writeups#subdomain-takeover)
+ - [Denial of Service (DOS)](https://github.com/0x7one/Bugbounty_Writeups#denial-of-service-dos)
+ - [Authentication Bypass](https://github.com/d0x7one/Bugbounty_Writeups#authentication-bypass)
+ - [SQL injection](https://github.com/0x7one/Bugbounty_Writeups#sql-injectionsqli)
+ - [Insecure Direct Object Reference (IDOR)](https://github.com/0x7one/Bugbounty_Writeups#insecure-direct-object-reference-idor)
+ - [2FA Related issues](https://github.com/0x7one/Bugbounty_Writeups#2fa-related-issues) 
+ - [CORS Related issues](https://github.com/0x7one/Bugbounty_Writeups#cors-related-issues)
+ - [Server Side Request Forgery (SSRF)](https://github.com/0x7one/Bugbounty_Writeups#server-side-request-forgery-ssrf)
+ - [Race Condition](https://github.com/0x7one/Bugbounty_Writeups#race-condition)
+ - [Remote Code Execution (RCE)](https://github.com/0x7one/Bugbounty_Writeups#remote-code-execution-rce)
+ - [Android Pentesting](https://github.com/0x7one/Bugbounty_Writeups#android-pentesting) 
+ - [Maintainers](https://github.com/0x7one/Bugbounty_Writeups#maintainers)
 
 
 
